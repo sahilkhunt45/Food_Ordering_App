@@ -1,16 +1,20 @@
-# food_ordering_system
+# Food_Ordering_System || Firebase Database
 
-A new Flutter project.
+- You can add your product in your cart.
+- You can add your favorites.
+- Available products are catagory wise foods,fruits,vegetables and groceries.
 
-## Getting Started
+## Application UI
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/205639484-379eead7-1089-44db-94e5-d25722bbb24f.jpg" height=400 width=1600>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## GIF
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/205639518-d13a92f4-c38e-4c50-a78d-76356cbff494.gif" height=500 width=250>
+</p>
+

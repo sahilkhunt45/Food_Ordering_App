@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591559010949",
+    "project_id": "food-ordering-app-fireba-4c79d",
+    "storage_bucket": "food-ordering-app-fireba-4c79d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591559010949:android:287867b7ea63f3f09e97ec",
+        "android_client_info": {
+          "package_name": "com.food_ordering_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591559010949-422qt95a8h24d8qiqmc39gv3eh891c2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz-X6vLqH3nKIujDExzkXXXQmtf4btOFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591559010949-422qt95a8h24d8qiqmc39gv3eh891c2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
